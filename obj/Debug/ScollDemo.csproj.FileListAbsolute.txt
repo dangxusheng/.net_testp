@@ -1,0 +1,11 @@
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\bin\Debug\ScollDemo.exe
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\bin\Debug\ScollDemo.pdb
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.CustomPanel.resources
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.Form1.resources
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.Properties.Resources.resources
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.csproj.GenerateResource.Cache
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.exe
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.pdb
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.Form2.resources
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.csprojResolveAssemblyReference.cache
+E:\Project\ActiveX_PlayerControl - vs2015\ScollDemo\obj\Debug\ScollDemo.Form3.resources
